@@ -1,9 +1,17 @@
 
 /* Your CSS Code here. */
-.box{
+div{
     margin: 20px;
     border: 15px solid blue;
     padding: 50px;
     background-color: lightblue;
+    text-align: center;
+    width: 300px;
+}
+.box{
+    /* margin: 20px;
+    border: 15px solid blue;
+    padding: 50px;
+    background-color: lightblue; */
     width: 300px;
 }
